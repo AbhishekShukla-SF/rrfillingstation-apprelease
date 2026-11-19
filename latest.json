@@ -1,0 +1,10 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "minVersionCode": 1,
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.0/rrfs-1.0.0.apk",
+  "sha256": "5d33e81228c2316cade27174ffc43dafe9f9a3d958539ca798ad6c65b1d333b8",
+  "sizeBytes": 37214815,
+  "notes": "Release build: arm64-v8a only (modern phones) - faster build, smaller APK\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>",
+  "publishedAt": "2026-11-19T16:29:55Z"
+}
