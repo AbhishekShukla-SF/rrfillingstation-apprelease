@@ -1,10 +1,10 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.0/rrfs-1.0.0.apk",
-  "sha256": "5d33e81228c2316cade27174ffc43dafe9f9a3d958539ca798ad6c65b1d333b8",
-  "sizeBytes": 37214815,
-  "notes": "Release build: arm64-v8a only (modern phones) - faster build, smaller APK\nCo-Authored-By: Claude Sonnet 5.5 <noreply@anthropic.com>",
-  "publishedAt": "2026-11-19T16:29:55Z"
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "minVersionCode": 2,
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.1/rrfs-1.0.1.apk",
+  "sha256": "64a3dc26204dae581701880738a6874629eedd6a21450f99af29046747b02178",
+  "sizeBytes": 37215255,
+  "notes": "Fix: the app now asks you to log in.",
+  "publishedAt": "2026-11-19T17:55:36Z"
 }
