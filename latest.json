@@ -1,10 +1,10 @@
 {
-  "versionCode": 106,
-  "versionName": "1.0.106",
-  "minVersionCode": 106,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.106/rrfs-1.0.106.apk",
-  "sha256": "dcd3b1e9dc48c2de87e84cff85fdf0cc2ea3133a8e279f705a4cb513228b5675",
-  "sizeBytes": 37167959,
-  "notes": "App: login inside the app (headless code-and-credentials flow, no browser); CI: auto build and release on every push to dev that changes the app (auto versionCode, re-run safe, Gradle cache)",
-  "publishedAt": "2026-11-19T18:44:21Z"
+  "versionCode": 108,
+  "versionName": "1.0.108",
+  "minVersionCode": 108,
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.108/rrfs-1.0.108.apk",
+  "sha256": "75adad264ba615ba1c1ad7a72a5567e0a636e40de4403ddd21540a0972f658b4",
+  "sizeBytes": 38000731,
+  "notes": "New look for the whole app: clearer screens, bigger numbers and easier buttons",
+  "publishedAt": "2026-11-19T20:22:41Z"
 }
