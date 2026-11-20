@@ -1,10 +1,10 @@
 {
-  "versionCode": 110,
-  "versionName": "1.0.110",
+  "versionCode": 111,
+  "versionName": "1.0.111",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.110/rrfs-1.0.110.apk",
-  "sha256": "53a5afec070100f558459a4c88b2523166448a98d081b457d60b4a96f90c4677",
-  "sizeBytes": 38010559,
-  "notes": "Autosave on every form, and the keyboard no longer hides \"Add new\"\n\n- Whatever you type is kept on the phone. If you press Back, close the box or leave the app, it is still there when you open the same form again.\n- Works in Shift Entry (each machine), Expenses, Pocket, Trade Credit (customer, credit, payment) and Tank stock.\n- A blue note says \"Brought back what you typed\". Tap Start over to clear it.\n- If saving fails (no internet), your typing is kept, not lost.\n- Shift Entry no longer asks \"Continue the draft?\". Your typing just comes back.\n- Adding a new credit customer, Online source or POS machine: the name box and Add button now stay above the keyboard.",
-  "publishedAt": "2026-11-20T07:08:20Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.111/rrfs-1.0.111.apk",
+  "sha256": "50c65470c1e4654175d528f9a2ac8fd484f3f6da0aa72dd6f05aa3e43f7f4471",
+  "sizeBytes": 38016375,
+  "notes": "Clearer Shift Entry, a new Trade Credit page and safer numbers\n\n- Shift Entry warns in red when the date is not today, with a \"Go to today\" button.\n- \"Submit shift\" stays grey until at least one machine is saved, and tells you which machines are not entered.\n- Empty screens say \"Nothing entered yet\" instead of a green \"Balanced\".\n- A machine shows \"Draft on this phone\" as soon as you come back from it.\n- Payments: one row of + Cash, + Online, + Card, + Udhar, + Expense buttons. Only what you added is shown, so nothing hides.\n- New credit customer from Shift Entry: name, plus mobile, address and note (all optional).\n- Trade Credit: slimmer total, sort by biggest or longest waiting, \"last entry\" days on each customer.\n- Customer page: pending, unpaid since how many days, WhatsApp reminder, Call, and a pencil to edit the customer.\n- Money looks the same everywhere (−₹500, never ₹-0). Expenses and credit given have no confusing minus.\n- Pocket: smaller cards and a short note when a balance is below zero.\n- History: an empty day just says \"No shift entered\".\n- More: shows who is logged in. Clock and battery icons are readable on every screen.",
+  "publishedAt": "2026-11-20T07:29:01Z"
 }
