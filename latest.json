@@ -1,10 +1,10 @@
 {
-  "versionCode": 111,
-  "versionName": "1.0.111",
+  "versionCode": 114,
+  "versionName": "1.0.114",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.111/rrfs-1.0.111.apk",
-  "sha256": "50c65470c1e4654175d528f9a2ac8fd484f3f6da0aa72dd6f05aa3e43f7f4471",
-  "sizeBytes": 38016375,
-  "notes": "Clearer Shift Entry, a new Trade Credit page and safer numbers\n\n- Shift Entry warns in red when the date is not today, with a \"Go to today\" button.\n- \"Submit shift\" stays grey until at least one machine is saved, and tells you which machines are not entered.\n- Empty screens say \"Nothing entered yet\" instead of a green \"Balanced\".\n- A machine shows \"Draft on this phone\" as soon as you come back from it.\n- Payments: one row of + Cash, + Online, + Card, + Udhar, + Expense buttons. Only what you added is shown, so nothing hides.\n- New credit customer from Shift Entry: name, plus mobile, address and note (all optional).\n- Trade Credit: slimmer total, sort by biggest or longest waiting, \"last entry\" days on each customer.\n- Customer page: pending, unpaid since how many days, WhatsApp reminder, Call, and a pencil to edit the customer.\n- Money looks the same everywhere (−₹500, never ₹-0). Expenses and credit given have no confusing minus.\n- Pocket: smaller cards and a short note when a balance is below zero.\n- History: an empty day just says \"No shift entered\".\n- More: shows who is logged in. Clock and battery icons are readable on every screen.",
-  "publishedAt": "2026-11-20T07:29:01Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.114/rrfs-1.0.114.apk",
+  "sha256": "7497b8a40a003a292e4b60b07e3d416afd03cce98b4691b00681d3404ca72617",
+  "sizeBytes": 38019735,
+  "notes": "More: website links try to open the site already logged in\n\n- Tapping Invoices, Salesmen, Capital, Rent or Master Sheet now asks Salesforce for a one-time logged-in link.\n- Until the owner switches this on in Salesforce, the links open the site as before (with the login).",
+  "publishedAt": "2026-11-20T08:11:03Z"
 }
