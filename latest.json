@@ -1,10 +1,10 @@
 {
-  "versionCode": 108,
-  "versionName": "1.0.108",
-  "minVersionCode": 108,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.108/rrfs-1.0.108.apk",
-  "sha256": "75adad264ba615ba1c1ad7a72a5567e0a636e40de4403ddd21540a0972f658b4",
-  "sizeBytes": 38000731,
-  "notes": "New look for the whole app: clearer screens, bigger numbers and easier buttons",
-  "publishedAt": "2026-11-19T20:22:41Z"
+  "versionCode": 110,
+  "versionName": "1.0.110",
+  "minVersionCode": 1,
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.110/rrfs-1.0.110.apk",
+  "sha256": "53a5afec070100f558459a4c88b2523166448a98d081b457d60b4a96f90c4677",
+  "sizeBytes": 38010559,
+  "notes": "Autosave on every form, and the keyboard no longer hides \"Add new\"\n\n- Whatever you type is kept on the phone. If you press Back, close the box or leave the app, it is still there when you open the same form again.\n- Works in Shift Entry (each machine), Expenses, Pocket, Trade Credit (customer, credit, payment) and Tank stock.\n- A blue note says \"Brought back what you typed\". Tap Start over to clear it.\n- If saving fails (no internet), your typing is kept, not lost.\n- Shift Entry no longer asks \"Continue the draft?\". Your typing just comes back.\n- Adding a new credit customer, Online source or POS machine: the name box and Add button now stay above the keyboard.",
+  "publishedAt": "2026-11-20T07:08:20Z"
 }
