@@ -1,10 +1,10 @@
 {
-  "versionCode": 128,
-  "versionName": "1.0.128",
+  "versionCode": 129,
+  "versionName": "1.0.129",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.128/rrfs-1.0.128.apk",
-  "sha256": "2d36b034b3755929a8bed599544a155ce0727cabd9df1402c8b8ded1851ee040",
-  "sizeBytes": 38079567,
-  "notes": "History shows the whole month, oldest or newest first\n\nTapping a day opens its full report.",
-  "publishedAt": "2026-11-21T16:11:14Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.129/rrfs-1.0.129.apk",
+  "sha256": "bc9119e5221eb83ea46f38d5f4754e6271110b932096545fd4eb40ddc85b5cd2",
+  "sizeBytes": 38116823,
+  "notes": "App lock: PIN, pattern, password, fingerprint or face",
+  "publishedAt": "2026-11-21T16:47:34Z"
 }
