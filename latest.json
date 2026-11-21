@@ -1,10 +1,10 @@
 {
-  "versionCode": 134,
-  "versionName": "1.0.134",
+  "versionCode": 136,
+  "versionName": "1.0.136",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.134/rrfs-1.0.134.apk",
-  "sha256": "184c35e9188136b04eb50539cfe965d28e03849954d33d790c9c2b455feadd90",
-  "sizeBytes": 38761625,
-  "notes": "Pocket is cash only, send cash to bank, more Trade Credit receive options\n\nThe Pocket no longer shows Online. Cash sent to the bank, directly or through a named person, lowers the cash without counting as an expense. Trade Credit can receive by Cash, Online, Bank, Card or an option users add.",
-  "publishedAt": "2026-11-21T19:11:57Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.136/rrfs-1.0.136.apk",
+  "sha256": "7d8937b0b25e24d1853538b06218160c0cdd091170b28ac19fb523cfa1dd74c4",
+  "sizeBytes": 38782133,
+  "notes": "Attendance: reminder and Shift Entry warning\n\nThe owner is reminded when today is not marked, and Shift Entry warns when a nozzle is given to someone marked Off, Absent or on leave.",
+  "publishedAt": "2026-11-21T21:09:17Z"
 }
