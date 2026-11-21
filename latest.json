@@ -1,10 +1,10 @@
 {
-  "versionCode": 131,
-  "versionName": "1.0.131",
+  "versionCode": 132,
+  "versionName": "1.0.132",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.131/rrfs-1.0.131.apk",
-  "sha256": "d2f0418515bf696e0f3f5137982daec21ce05c340ef392638930f59707ca33bc",
-  "sizeBytes": 38117007,
-  "notes": "Shift Entry: expense spent by, where and reason are optional\n\nOnly the amount and what it was for are still needed, in the app, on the\nwebsite and on the server. The day report skips the parts left blank.",
-  "publishedAt": "2026-11-21T17:20:05Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.132/rrfs-1.0.132.apk",
+  "sha256": "ae2011637b4d7acb5b150c88198845fe13142073754536e4b47c0bed009ab2de",
+  "sizeBytes": 38134507,
+  "notes": "Home alerts, WhatsApp day report, overdue credit, log out a lost phone\n\nThe owner sees what needs attention on the first tab, can share the day report on WhatsApp, chase customers overdue 30+ days, and log out a lost phone from Team & Access.",
+  "publishedAt": "2026-11-21T18:13:14Z"
 }
