@@ -1,10 +1,10 @@
 {
-  "versionCode": 133,
-  "versionName": "1.0.133",
+  "versionCode": 134,
+  "versionName": "1.0.134",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.133/rrfs-1.0.133.apk",
-  "sha256": "9b1253587b8995d86b695b72d68ba6c18e76ac47a4b6354a24110d380aeb7160",
-  "sizeBytes": 38756761,
-  "notes": "Phone notifications for approvals\n\nAdmins are told when a manager sends a shift, and the manager is told when it is approved or rejected. Tapping opens the entry. No amounts appear on the lock screen.",
-  "publishedAt": "2026-11-21T18:41:31Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.134/rrfs-1.0.134.apk",
+  "sha256": "184c35e9188136b04eb50539cfe965d28e03849954d33d790c9c2b455feadd90",
+  "sizeBytes": 38761625,
+  "notes": "Pocket is cash only, send cash to bank, more Trade Credit receive options\n\nThe Pocket no longer shows Online. Cash sent to the bank, directly or through a named person, lowers the cash without counting as an expense. Trade Credit can receive by Cash, Online, Bank, Card or an option users add.",
+  "publishedAt": "2026-11-21T19:11:57Z"
 }
