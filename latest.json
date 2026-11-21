@@ -1,10 +1,10 @@
 {
-  "versionCode": 129,
-  "versionName": "1.0.129",
+  "versionCode": 131,
+  "versionName": "1.0.131",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.129/rrfs-1.0.129.apk",
-  "sha256": "bc9119e5221eb83ea46f38d5f4754e6271110b932096545fd4eb40ddc85b5cd2",
-  "sizeBytes": 38116823,
-  "notes": "App lock: PIN, pattern, password, fingerprint or face",
-  "publishedAt": "2026-11-21T16:47:34Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.131/rrfs-1.0.131.apk",
+  "sha256": "d2f0418515bf696e0f3f5137982daec21ce05c340ef392638930f59707ca33bc",
+  "sizeBytes": 38117007,
+  "notes": "Shift Entry: expense spent by, where and reason are optional\n\nOnly the amount and what it was for are still needed, in the app, on the\nwebsite and on the server. The day report skips the parts left blank.",
+  "publishedAt": "2026-11-21T17:20:05Z"
 }
