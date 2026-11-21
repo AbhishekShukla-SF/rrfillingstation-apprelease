@@ -1,10 +1,10 @@
 {
-  "versionCode": 119,
-  "versionName": "1.0.119",
+  "versionCode": 120,
+  "versionName": "1.0.120",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.119/rrfs-1.0.119.apk",
-  "sha256": "1b386f3a84ceca7b1cab560a9a3e7168f25bb7b3d4e5088b936f179d431e49a3",
-  "sizeBytes": 38022679,
-  "notes": "Shift Entry payments: all add buttons at the bottom of each salesman too",
-  "publishedAt": "2026-11-21T10:52:37Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.120/rrfs-1.0.120.apk",
+  "sha256": "91b901833ac77283e2a6ff1d6e1bc30f360d113bd9c2dce24c2d241cfd85173d",
+  "sizeBytes": 38026187,
+  "notes": "App opens the right screens for each role",
+  "publishedAt": "2026-11-21T12:30:56Z"
 }
