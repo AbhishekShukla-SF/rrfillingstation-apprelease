@@ -1,10 +1,10 @@
 {
-  "versionCode": 121,
-  "versionName": "1.0.121",
+  "versionCode": 126,
+  "versionName": "1.0.126",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.121/rrfs-1.0.121.apk",
-  "sha256": "9561aa99070744b5d219415669bd427c83fc2bd102bcbbdbb207ffc440af610d",
-  "sizeBytes": 38029535,
-  "notes": "Add approval and log data model",
-  "publishedAt": "2026-11-21T12:51:32Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.126/rrfs-1.0.126.apk",
+  "sha256": "9ba3836957a81f87a53b3ec1696362be09f55faf7676af941521ff96d5ba79d7",
+  "sizeBytes": 38072815,
+  "notes": "Managers send shifts for approval, admins approve in the app\n\nAdds the Approvals screens, a bell with the waiting count, and pop-ups for\nadmins and managers.",
+  "publishedAt": "2026-11-21T13:54:07Z"
 }
