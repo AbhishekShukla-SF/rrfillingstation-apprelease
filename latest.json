@@ -1,10 +1,10 @@
 {
-  "versionCode": 120,
-  "versionName": "1.0.120",
+  "versionCode": 121,
+  "versionName": "1.0.121",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.120/rrfs-1.0.120.apk",
-  "sha256": "91b901833ac77283e2a6ff1d6e1bc30f360d113bd9c2dce24c2d241cfd85173d",
-  "sizeBytes": 38026187,
-  "notes": "App opens the right screens for each role",
-  "publishedAt": "2026-11-21T12:30:56Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.121/rrfs-1.0.121.apk",
+  "sha256": "9561aa99070744b5d219415669bd427c83fc2bd102bcbbdbb207ffc440af610d",
+  "sizeBytes": 38029535,
+  "notes": "Add approval and log data model",
+  "publishedAt": "2026-11-21T12:51:32Z"
 }
