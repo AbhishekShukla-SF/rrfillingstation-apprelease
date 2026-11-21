@@ -1,10 +1,10 @@
 {
-  "versionCode": 132,
-  "versionName": "1.0.132",
+  "versionCode": 133,
+  "versionName": "1.0.133",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.132/rrfs-1.0.132.apk",
-  "sha256": "ae2011637b4d7acb5b150c88198845fe13142073754536e4b47c0bed009ab2de",
-  "sizeBytes": 38134507,
-  "notes": "Home alerts, WhatsApp day report, overdue credit, log out a lost phone\n\nThe owner sees what needs attention on the first tab, can share the day report on WhatsApp, chase customers overdue 30+ days, and log out a lost phone from Team & Access.",
-  "publishedAt": "2026-11-21T18:13:14Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.133/rrfs-1.0.133.apk",
+  "sha256": "9b1253587b8995d86b695b72d68ba6c18e76ac47a4b6354a24110d380aeb7160",
+  "sizeBytes": 38756761,
+  "notes": "Phone notifications for approvals\n\nAdmins are told when a manager sends a shift, and the manager is told when it is approved or rejected. Tapping opens the entry. No amounts appear on the lock screen.",
+  "publishedAt": "2026-11-21T18:41:31Z"
 }
