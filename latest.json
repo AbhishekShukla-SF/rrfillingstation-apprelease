@@ -1,10 +1,10 @@
 {
-  "versionCode": 114,
-  "versionName": "1.0.114",
+  "versionCode": 115,
+  "versionName": "1.0.115",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.114/rrfs-1.0.114.apk",
-  "sha256": "7497b8a40a003a292e4b60b07e3d416afd03cce98b4691b00681d3404ca72617",
-  "sizeBytes": 38019735,
-  "notes": "More: website links try to open the site already logged in\n\n- Tapping Invoices, Salesmen, Capital, Rent or Master Sheet now asks Salesforce for a one-time logged-in link.\n- Until the owner switches this on in Salesforce, the links open the site as before (with the login).",
-  "publishedAt": "2026-11-20T08:11:03Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.115/rrfs-1.0.115.apk",
+  "sha256": "cb3245eba6135a9c28d9c0993b50e596f1b9e8159000d1b3414b46283f24eb46",
+  "sizeBytes": 38019939,
+  "notes": "Shift Entry payments: add the next row from under the list",
+  "publishedAt": "2026-11-21T10:07:55Z"
 }
