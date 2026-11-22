@@ -1,10 +1,10 @@
 {
-  "versionCode": 137,
-  "versionName": "1.0.137",
+  "versionCode": 140,
+  "versionName": "1.0.140",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.137/rrfs-1.0.137.apk",
-  "sha256": "a2acd73a01480fa9805740a7be17f72fbdc75948aa871c6ccc9bd08299899767",
-  "sizeBytes": 38784329,
-  "notes": "App layout rework: Attendance tab, slimmer tabs, Pocket and Credit redesign, pixel splash\n\n- Attendance moves from More to the bottom tab (Pocket, Shift, Credit, Attendance)\n- Expenses and History open from small top-left buttons on Pocket and Shift, so only four tabs remain\n- Pocket redesigned: one hero card (balance plus today in/out), Money in, Expense and Send cash to bank in one column\n- Credit: search collapses to an icon, cleaner summary card and filter row\n- Splash: RRFS wordmark drawn in pixels moves forward and dissolves into pixels; native splash image matches\n- Attendance tab shows a red dot while today is not marked\n- Team & Access added to the More menu's site links\n- Housekeeping: pocket entry sheet moved out of the routes folder; plan docs updated",
-  "publishedAt": "2026-11-22T08:20:26Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.140/rrfs-1.0.140.apk",
+  "sha256": "4fe0e3305f6ef8fed2aa397fca33c44c5c551c821283ae8011f36e60450354b9",
+  "sizeBytes": 38785585,
+  "notes": "Attendance: drop the screen title, day row starts the screen",
+  "publishedAt": "2026-11-22T09:21:37Z"
 }
