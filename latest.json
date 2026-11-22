@@ -1,10 +1,10 @@
 {
-  "versionCode": 136,
-  "versionName": "1.0.136",
+  "versionCode": 137,
+  "versionName": "1.0.137",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.136/rrfs-1.0.136.apk",
-  "sha256": "7d8937b0b25e24d1853538b06218160c0cdd091170b28ac19fb523cfa1dd74c4",
-  "sizeBytes": 38782133,
-  "notes": "Attendance: reminder and Shift Entry warning\n\nThe owner is reminded when today is not marked, and Shift Entry warns when a nozzle is given to someone marked Off, Absent or on leave.",
-  "publishedAt": "2026-11-21T21:09:17Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.137/rrfs-1.0.137.apk",
+  "sha256": "a2acd73a01480fa9805740a7be17f72fbdc75948aa871c6ccc9bd08299899767",
+  "sizeBytes": 38784329,
+  "notes": "App layout rework: Attendance tab, slimmer tabs, Pocket and Credit redesign, pixel splash\n\n- Attendance moves from More to the bottom tab (Pocket, Shift, Credit, Attendance)\n- Expenses and History open from small top-left buttons on Pocket and Shift, so only four tabs remain\n- Pocket redesigned: one hero card (balance plus today in/out), Money in, Expense and Send cash to bank in one column\n- Credit: search collapses to an icon, cleaner summary card and filter row\n- Splash: RRFS wordmark drawn in pixels moves forward and dissolves into pixels; native splash image matches\n- Attendance tab shows a red dot while today is not marked\n- Team & Access added to the More menu's site links\n- Housekeeping: pocket entry sheet moved out of the routes folder; plan docs updated",
+  "publishedAt": "2026-11-22T08:20:26Z"
 }
