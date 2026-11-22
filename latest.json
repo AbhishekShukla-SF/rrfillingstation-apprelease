@@ -1,10 +1,10 @@
 {
-  "versionCode": 141,
-  "versionName": "1.0.141",
+  "versionCode": 142,
+  "versionName": "1.0.142",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.141/rrfs-1.0.141.apk",
-  "sha256": "2d0ec71ce45e24e58d37c34ba69aaa74ed7b39eb4b378e368d43ec0ef712d3db",
-  "sizeBytes": 38787233,
-  "notes": "Shift Entry: salary advance, and every note stays visible\n\nAdd a Salary advance payment type on the website and app: salesman,\namount and optional remark. It balances the shift, stays out of the\nPocket and is cut from that salesman's salary.\n\nShow saved notes in full on the app's shift form, History and\nApprovals, and on the website's History.",
-  "publishedAt": "2026-11-22T14:01:07Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.142/rrfs-1.0.142.apk",
+  "sha256": "efcb34beced54c80c93a66b467b252e1ac1186e1e24a428f38aa77475f35475b",
+  "sizeBytes": 38787697,
+  "notes": "Attendance: Absent can be marked on a paid person, as a record only\n\nThe Absent option now shows for everyone on the website and in the app.\nFor a person whose salary is already paid, the absence is recorded with\nno cut, no cover and no extra points, so paid money cannot change.",
+  "publishedAt": "2026-11-22T14:34:18Z"
 }
