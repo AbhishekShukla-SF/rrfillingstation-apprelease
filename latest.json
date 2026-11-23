@@ -1,10 +1,10 @@
 {
-  "versionCode": 153,
-  "versionName": "1.0.153",
+  "versionCode": 158,
+  "versionName": "1.0.158",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.153/rrfs-1.0.153.apk",
-  "sha256": "8591161ec20fa8a7b2ab9f974b07d40fd85dda4cda2807d3f2240149197ac8c7",
-  "sizeBytes": 38821733,
-  "notes": "Default new credit customers to Temporary line\n\nMade-with: Perch",
-  "publishedAt": "2026-11-23T17:54:12Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.158/rrfs-1.0.158.apk",
+  "sha256": "6939b22d212aa18985ba2e6dad644aa47ad78c4c0a20a5b205288beafc1da0ed",
+  "sizeBytes": 38836449,
+  "notes": "Show on-duty salesmen first in Shift Entry and mark attendance with one tap",
+  "publishedAt": "2026-11-23T20:05:37Z"
 }
