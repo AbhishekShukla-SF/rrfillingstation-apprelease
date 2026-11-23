@@ -1,10 +1,10 @@
 {
-  "versionCode": 149,
-  "versionName": "1.0.149",
+  "versionCode": 150,
+  "versionName": "1.0.150",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.149/rrfs-1.0.149.apk",
-  "sha256": "8f2547a0188c8e62f2af13597e87c06876fbabe1ce9cb02261cabda8856d2070",
-  "sizeBytes": 38817521,
-  "notes": "Credit: warn about names already registered, fix search typing into new customer\n\nFrom 3 letters the new customer form lists similar registered names on the\nwebsite and in the app, in Trade Credit and Shift Entry. Tapping one uses it.\nThe Trade Credit form is no longer tied to the search box.",
-  "publishedAt": "2026-11-23T14:10:20Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.150/rrfs-1.0.150.apk",
+  "sha256": "7b24e64f7cc2a14df687e2a722cdee2e8701569e46b58c175b042747d1108510",
+  "sizeBytes": 38820889,
+  "notes": "App: salesman tag on trade customers, in Credit and Shift Entry",
+  "publishedAt": "2026-11-23T15:12:14Z"
 }
