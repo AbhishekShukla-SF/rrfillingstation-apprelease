@@ -1,10 +1,10 @@
 {
-  "versionCode": 142,
-  "versionName": "1.0.142",
+  "versionCode": 148,
+  "versionName": "1.0.148",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.142/rrfs-1.0.142.apk",
-  "sha256": "efcb34beced54c80c93a66b467b252e1ac1186e1e24a428f38aa77475f35475b",
-  "sizeBytes": 38787697,
-  "notes": "Attendance: Absent can be marked on a paid person, as a record only\n\nThe Absent option now shows for everyone on the website and in the app.\nFor a person whose salary is already paid, the absence is recorded with\nno cut, no cover and no extra points, so paid money cannot change.",
-  "publishedAt": "2026-11-22T14:34:18Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.148/rrfs-1.0.148.apk",
+  "sha256": "fe880b530ad52de9a634281096192929cd0af491b812e2e70dda38c1cd2f5863",
+  "sizeBytes": 38798173,
+  "notes": "App Shift Entry: moving the date waits for that day's real data\n\nA copy kept on the phone is no longer shown as the new day while it loads.\nOffline, the kept copy still shows.",
+  "publishedAt": "2026-11-23T13:37:48Z"
 }
