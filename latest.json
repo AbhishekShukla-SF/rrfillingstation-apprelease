@@ -1,10 +1,10 @@
 {
-  "versionCode": 148,
-  "versionName": "1.0.148",
+  "versionCode": 149,
+  "versionName": "1.0.149",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.148/rrfs-1.0.148.apk",
-  "sha256": "fe880b530ad52de9a634281096192929cd0af491b812e2e70dda38c1cd2f5863",
-  "sizeBytes": 38798173,
-  "notes": "App Shift Entry: moving the date waits for that day's real data\n\nA copy kept on the phone is no longer shown as the new day while it loads.\nOffline, the kept copy still shows.",
-  "publishedAt": "2026-11-23T13:37:48Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.149/rrfs-1.0.149.apk",
+  "sha256": "8f2547a0188c8e62f2af13597e87c06876fbabe1ce9cb02261cabda8856d2070",
+  "sizeBytes": 38817521,
+  "notes": "Credit: warn about names already registered, fix search typing into new customer\n\nFrom 3 letters the new customer form lists similar registered names on the\nwebsite and in the app, in Trade Credit and Shift Entry. Tapping one uses it.\nThe Trade Credit form is no longer tied to the search box.",
+  "publishedAt": "2026-11-23T14:10:20Z"
 }
