@@ -1,10 +1,10 @@
 {
-  "versionCode": 174,
-  "versionName": "1.0.174",
+  "versionCode": 177,
+  "versionName": "1.0.177",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.174/rrfs-1.0.174.apk",
-  "sha256": "85ca026152c282f4677ee689719ebb66e61ba2396cc317b6e35cb6e0d2cf5280",
-  "sizeBytes": 23226053,
-  "notes": "Mark the config plugin's require as intended (CommonJS) ",
-  "publishedAt": "2026-11-24T11:41:27Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.177/rrfs-1.0.177.apk",
+  "sha256": "3f6dcf5422d4489ed94677d5cd5bab4e4e52744f98c6faf227548a5ab3f03fc3",
+  "sizeBytes": 23246233,
+  "notes": "HPCL book review fixes: lock HL receipts in Tank Stock, back-fill shift HP Pay / DT Plus when the opening is dated in the past, stock sheets after loads, locale-free month names ",
+  "publishedAt": "2026-11-24T18:02:01Z"
 }
