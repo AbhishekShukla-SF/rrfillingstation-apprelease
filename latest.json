@@ -1,10 +1,10 @@
 {
-  "versionCode": 158,
-  "versionName": "1.0.158",
+  "versionCode": 161,
+  "versionName": "1.0.161",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.158/rrfs-1.0.158.apk",
-  "sha256": "6939b22d212aa18985ba2e6dad644aa47ad78c4c0a20a5b205288beafc1da0ed",
-  "sizeBytes": 38836449,
-  "notes": "Show on-duty salesmen first in Shift Entry and mark attendance with one tap",
-  "publishedAt": "2026-11-23T20:05:37Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.161/rrfs-1.0.161.apk",
+  "sha256": "e0fc411ce6b11ea76ef6eae029ff86f7c7f188a73562f03e54e548d655cb72db",
+  "sizeBytes": 38847777,
+  "notes": "Trade Credit PDFs and WhatsApp reminders in Hindi or English",
+  "publishedAt": "2026-11-24T05:02:16Z"
 }
