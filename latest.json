@@ -1,10 +1,10 @@
 {
-  "versionCode": 171,
-  "versionName": "1.0.171",
+  "versionCode": 174,
+  "versionName": "1.0.174",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.171/rrfs-1.0.171.apk",
-  "sha256": "ef4b8b8d90c44b73bda9794b690d9eaa2f058b1798a9b94e6e81f6540ba51b74",
-  "sizeBytes": 38897813,
-  "notes": "App update: a download that is reopened now really resumes (it tried to resume a new task and got stuck on 'The download stopped'); retries by itself, saves progress less often, shows MB and a Try again button",
-  "publishedAt": "2026-11-24T10:45:20Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.174/rrfs-1.0.174.apk",
+  "sha256": "85ca026152c282f4677ee689719ebb66e61ba2396cc317b6e35cb6e0d2cf5280",
+  "sizeBytes": 23226053,
+  "notes": "Mark the config plugin's require as intended (CommonJS) ",
+  "publishedAt": "2026-11-24T11:41:27Z"
 }
