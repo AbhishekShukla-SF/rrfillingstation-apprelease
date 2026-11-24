@@ -1,10 +1,10 @@
 {
-  "versionCode": 165,
-  "versionName": "1.0.165",
+  "versionCode": 166,
+  "versionName": "1.0.166",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.165/rrfs-1.0.165.apk",
-  "sha256": "c17f4e00bf6f8003b41af7cc4731296daae10d1eb08be5cbb3cf036b6f5c98aa",
-  "sizeBytes": 38867745,
-  "notes": "Mobile: drop the unused exported tap-lock hook (buttons use the built-in one)",
-  "publishedAt": "2026-11-24T08:04:34Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.166/rrfs-1.0.166.apk",
+  "sha256": "93da68b937782696d2eb064f19e7d84d42532e7929b17b431a2afc5df66a72c2",
+  "sizeBytes": 38877097,
+  "notes": "Mobile: resumable update download with a bottom progress bar and an Install update button; no restart from 0 after closing the app",
+  "publishedAt": "2026-11-24T09:10:39Z"
 }
