@@ -1,10 +1,10 @@
 {
-  "versionCode": 169,
-  "versionName": "1.0.169",
+  "versionCode": 171,
+  "versionName": "1.0.171",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.169/rrfs-1.0.169.apk",
-  "sha256": "84cb7ca58eb18b1014e37fdc1ded16620af8c8462cdf549ef145416106b06c9a",
-  "sizeBytes": 38893085,
-  "notes": "Customers get a Hindi name: suggested from the English name (built-in rules), editable, printed on Hindi PDFs and reminders (website and app)",
-  "publishedAt": "2026-11-24T09:51:48Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.171/rrfs-1.0.171.apk",
+  "sha256": "ef4b8b8d90c44b73bda9794b690d9eaa2f058b1798a9b94e6e81f6540ba51b74",
+  "sizeBytes": 38897813,
+  "notes": "App update: a download that is reopened now really resumes (it tried to resume a new task and got stuck on 'The download stopped'); retries by itself, saves progress less often, shows MB and a Try again button",
+  "publishedAt": "2026-11-24T10:45:20Z"
 }
