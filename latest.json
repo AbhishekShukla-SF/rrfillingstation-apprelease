@@ -1,10 +1,10 @@
 {
-  "versionCode": 182,
-  "versionName": "1.0.182",
+  "versionCode": 183,
+  "versionName": "1.0.183",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.182/rrfs-1.0.182.apk",
-  "sha256": "3f376593c17aa448976335421a30584e62dd9aebab53b35577f5225052f8e92d",
-  "sizeBytes": 23319633,
-  "notes": "Attendance: 12-hour duty can be Day or Night (information only; website, owner's app, sheet 12N, Shift Entry word) \n\nRow.n is kept only for a 12-hour duty; no money, cover or rule changes, so a paid person can be switched.",
-  "publishedAt": "2026-11-25T04:45:03Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.183/rrfs-1.0.183.apk",
+  "sha256": "227cb9e9a1a9b24ab90ffee1e648d29bc1c5b14eeb5ad03bef9ad82ba730f5a6",
+  "sizeBytes": 23323009,
+  "notes": "App Trade Credit: choose which customers go into the \"customers who owe\" PDF\n\nThe PDF report sheet shows a checklist of the customers who owe (all ticked,\nSelect all / Select none, search, live count, scrolls inside the sheet).\nOnly ticked customers are sent to the server, in English and Hindi.",
+  "publishedAt": "2026-11-25T06:02:23Z"
 }
