@@ -1,10 +1,10 @@
 {
-  "versionCode": 177,
-  "versionName": "1.0.177",
+  "versionCode": 182,
+  "versionName": "1.0.182",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.177/rrfs-1.0.177.apk",
-  "sha256": "3f6dcf5422d4489ed94677d5cd5bab4e4e52744f98c6faf227548a5ab3f03fc3",
-  "sizeBytes": 23246233,
-  "notes": "HPCL book review fixes: lock HL receipts in Tank Stock, back-fill shift HP Pay / DT Plus when the opening is dated in the past, stock sheets after loads, locale-free month names ",
-  "publishedAt": "2026-11-24T18:02:01Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.182/rrfs-1.0.182.apk",
+  "sha256": "3f376593c17aa448976335421a30584e62dd9aebab53b35577f5225052f8e92d",
+  "sizeBytes": 23319633,
+  "notes": "Attendance: 12-hour duty can be Day or Night (information only; website, owner's app, sheet 12N, Shift Entry word) \n\nRow.n is kept only for a 12-hour duty; no money, cover or rule changes, so a paid person can be switched.",
+  "publishedAt": "2026-11-25T04:45:03Z"
 }
