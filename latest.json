@@ -1,10 +1,10 @@
 {
-  "versionCode": 183,
-  "versionName": "1.0.183",
+  "versionCode": 184,
+  "versionName": "1.0.184",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.183/rrfs-1.0.183.apk",
-  "sha256": "227cb9e9a1a9b24ab90ffee1e648d29bc1c5b14eeb5ad03bef9ad82ba730f5a6",
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.184/rrfs-1.0.184.apk",
+  "sha256": "987a3bc7b99216208399b754555e6c16fa814e7677a2fcf5360a094576c0acfe",
   "sizeBytes": 23323009,
-  "notes": "App Trade Credit: choose which customers go into the \"customers who owe\" PDF\n\nThe PDF report sheet shows a checklist of the customers who owe (all ticked,\nSelect all / Select none, search, live count, scrolls inside the sheet).\nOnly ticked customers are sent to the server, in English and Hindi.",
-  "publishedAt": "2026-11-25T06:02:23Z"
+  "notes": "Default new expenses to Not from my pocket (bank / online)",
+  "publishedAt": "2026-11-25T06:43:24Z"
 }
