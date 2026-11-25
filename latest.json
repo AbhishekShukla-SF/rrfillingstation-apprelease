@@ -1,10 +1,10 @@
 {
-  "versionCode": 189,
-  "versionName": "1.0.189",
+  "versionCode": 196,
+  "versionName": "1.0.196",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.189/rrfs-1.0.189.apk",
-  "sha256": "f4f6eb007ab13410d08fc8b0206ee78a874193210aa82807edb5cc2f38a13e5f",
-  "sizeBytes": 23344601,
-  "notes": "ATM Record page: shift card payments in a sheet, verify bank credit (web only)",
-  "publishedAt": "2026-11-25T12:06:05Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.196/rrfs-1.0.196.apk",
+  "sha256": "513e53869aa29f777ecc7fe0a852ab55719286450ea6f57c4c6953a2c2ffccb0",
+  "sizeBytes": 23374605,
+  "notes": "Lube module (app): Lube screen with Stock and Sales, record sale, receive cartons, move to display\n\nReached from the Lube link on the Pocket home. Bottom buttons clear the Android navigation bar.",
+  "publishedAt": "2026-11-25T13:24:05Z"
 }
