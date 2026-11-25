@@ -1,10 +1,10 @@
 {
-  "versionCode": 188,
-  "versionName": "1.0.188",
+  "versionCode": 189,
+  "versionName": "1.0.189",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.188/rrfs-1.0.188.apk",
-  "sha256": "31f8559f416097fa3214a856e4d7e563886c7785000a7e452b26b29a59b31526",
-  "sizeBytes": 23330645,
-  "notes": "Load sizes: optional MS/HSD KL split per size (web + app)",
-  "publishedAt": "2026-11-25T07:41:09Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.189/rrfs-1.0.189.apk",
+  "sha256": "f4f6eb007ab13410d08fc8b0206ee78a874193210aa82807edb5cc2f38a13e5f",
+  "sizeBytes": 23344601,
+  "notes": "ATM Record page: shift card payments in a sheet, verify bank credit (web only)",
+  "publishedAt": "2026-11-25T12:06:05Z"
 }
