@@ -1,10 +1,10 @@
 {
-  "versionCode": 184,
-  "versionName": "1.0.184",
+  "versionCode": 188,
+  "versionName": "1.0.188",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.184/rrfs-1.0.184.apk",
-  "sha256": "987a3bc7b99216208399b754555e6c16fa814e7677a2fcf5360a094576c0acfe",
-  "sizeBytes": 23323009,
-  "notes": "Default new expenses to Not from my pocket (bank / online)",
-  "publishedAt": "2026-11-25T06:43:24Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.188/rrfs-1.0.188.apk",
+  "sha256": "31f8559f416097fa3214a856e4d7e563886c7785000a7e452b26b29a59b31526",
+  "sizeBytes": 23330645,
+  "notes": "Load sizes: optional MS/HSD KL split per size (web + app)",
+  "publishedAt": "2026-11-25T07:41:09Z"
 }
