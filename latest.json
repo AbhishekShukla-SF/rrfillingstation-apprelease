@@ -1,10 +1,10 @@
 {
-  "versionCode": 196,
-  "versionName": "1.0.196",
+  "versionCode": 198,
+  "versionName": "1.0.198",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.196/rrfs-1.0.196.apk",
-  "sha256": "513e53869aa29f777ecc7fe0a852ab55719286450ea6f57c4c6953a2c2ffccb0",
-  "sizeBytes": 23374605,
-  "notes": "Lube module (app): Lube screen with Stock and Sales, record sale, receive cartons, move to display\n\nReached from the Lube link on the Pocket home. Bottom buttons clear the Android navigation bar.",
-  "publishedAt": "2026-11-25T13:24:05Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.198/rrfs-1.0.198.apk",
+  "sha256": "a4678b6a9dc99400a4c1a660e74d37d8280fc4436a49b75439078baf2bc226d3",
+  "sizeBytes": 23387889,
+  "notes": "Owner's app: every page in the new Home look (navy page bar, navy summary cards, round icon shortcuts, rounder cards)\n\n- ShiftHeader (21 full screens) becomes a navy page bar with a round back button and the gold line; Screen paints the\n  status-bar strip and the Updating line navy above it. The credit customer page moves onto it (Edit on the right).\n- Card gets tone=\"primary\" (navy summary card); BigNumber and Skeleton switch to light colours inside it. Used on\n  Pocket, Trade Credit (adds given / received this month), Overdue, Expenses, HPCL, Lube and the staff home.\n- New ActionGrid (round icon links): Pocket's page links, Shift's History / Loads, Home's website links.\n- Cards are radius 16 everywhere. New tokens onPrimaryIn / onPrimaryOut / onPrimaryWash / onPrimaryLine; design\n  system doc and component gallery updated.",
+  "publishedAt": "2026-11-26T17:14:13Z"
 }
