@@ -1,10 +1,10 @@
 {
-  "versionCode": 198,
-  "versionName": "1.0.198",
+  "versionCode": 208,
+  "versionName": "1.0.208",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.198/rrfs-1.0.198.apk",
-  "sha256": "a4678b6a9dc99400a4c1a660e74d37d8280fc4436a49b75439078baf2bc226d3",
-  "sizeBytes": 23387889,
-  "notes": "Owner's app: every page in the new Home look (navy page bar, navy summary cards, round icon shortcuts, rounder cards)\n\n- ShiftHeader (21 full screens) becomes a navy page bar with a round back button and the gold line; Screen paints the\n  status-bar strip and the Updating line navy above it. The credit customer page moves onto it (Edit on the right).\n- Card gets tone=\"primary\" (navy summary card); BigNumber and Skeleton switch to light colours inside it. Used on\n  Pocket, Trade Credit (adds given / received this month), Overdue, Expenses, HPCL, Lube and the staff home.\n- New ActionGrid (round icon links): Pocket's page links, Shift's History / Loads, Home's website links.\n- Cards are radius 16 everywhere. New tokens onPrimaryIn / onPrimaryOut / onPrimaryWash / onPrimaryLine; design\n  system doc and component gallery updated.",
-  "publishedAt": "2026-11-26T17:14:13Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.208/rrfs-1.0.208.apk",
+  "sha256": "0bcf32ee92d45a653f983dd938fb1aea27187f56e3774a72534434ee67968d3a",
+  "sizeBytes": 23390269,
+  "notes": "App update: cleaner screens and buttons that are always easy to reach\n\n- Home: smaller tiles, so Needs attention shows as soon as the app opens. Pocket bars in colour (today in gold).\n- Pocket and Shift: no repeated shortcuts at the top (every page is on Home). Set opening balance is a small Opening link in the cash card.\n- Shift: date and 12 / 24 Hour on one line; Submitted, Read only and Page view on one line; Tank stock moved to Home.\n- Credit: All / Commercial / Temporary on one row.\n- Attendance: duty buttons in neat rows, See month next to each name, Save button right above the tabs.\n- ATM Record: month total with Verified and Not verified yet, one card per day, Verified in green.\n- Buttons at the bottom never hide under the phone's back button.\n- Forms (Compliance, Lube, ATM and others): the Save button stays visible above the keyboard.",
+  "publishedAt": "2026-11-27T15:27:19Z"
 }
