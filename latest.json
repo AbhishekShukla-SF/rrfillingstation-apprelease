@@ -1,10 +1,10 @@
 {
-  "versionCode": 208,
-  "versionName": "1.0.208",
+  "versionCode": 210,
+  "versionName": "1.0.210",
   "minVersionCode": 1,
-  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.208/rrfs-1.0.208.apk",
-  "sha256": "0bcf32ee92d45a653f983dd938fb1aea27187f56e3774a72534434ee67968d3a",
-  "sizeBytes": 23390269,
-  "notes": "App update: cleaner screens and buttons that are always easy to reach\n\n- Home: smaller tiles, so Needs attention shows as soon as the app opens. Pocket bars in colour (today in gold).\n- Pocket and Shift: no repeated shortcuts at the top (every page is on Home). Set opening balance is a small Opening link in the cash card.\n- Shift: date and 12 / 24 Hour on one line; Submitted, Read only and Page view on one line; Tank stock moved to Home.\n- Credit: All / Commercial / Temporary on one row.\n- Attendance: duty buttons in neat rows, See month next to each name, Save button right above the tabs.\n- ATM Record: month total with Verified and Not verified yet, one card per day, Verified in green.\n- Buttons at the bottom never hide under the phone's back button.\n- Forms (Compliance, Lube, ATM and others): the Save button stays visible above the keyboard.",
-  "publishedAt": "2026-11-27T15:27:19Z"
+  "apkUrl": "https://github.com/AbhishekShukla-SF/rrfillingstation-apprelease/releases/download/v1.0.210/rrfs-1.0.210.apk",
+  "sha256": "104915a53d957f7a7a5aec204d559d1fd966c6d81f2f4b6fb8f34bdfc0068472",
+  "sizeBytes": 23391213,
+  "notes": "App load form: show the invoice density beside the density checked; stock before / after decantation",
+  "publishedAt": "2026-11-28T14:43:49Z"
 }
